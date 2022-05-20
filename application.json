@@ -1,0 +1,15 @@
+{
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#F4FFDE",
+  "icon": "rainy-weather",
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "isManualUpdate": false,
+  "createdAt": {
+    "seconds": 1653070685,
+    "nanos": 354000000
+  },
+  "deleted": false
+}
